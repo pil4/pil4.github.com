@@ -1,0 +1,27 @@
+title: Do Something
+description: Do, or do not. There is no Try.
+
+url: http://pil4.github.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: pil4
+   twitter: pil4
+   facebook: pil4on
+   email: pil4on@gmail.com
+
+google_analytics: ""
